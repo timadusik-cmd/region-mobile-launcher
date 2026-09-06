@@ -1,0 +1,16 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+.vscode
+.idea
+
+# Capacitor Android build artifacts
+android/app/build
+android/build
+android/.gradle
+android/captures
+android/app/src/main/assets/public
+android/app/src/main/assets/capacitor.config.json
+android/app/src/main/assets/capacitor.plugins.json

@@ -1,0 +1,8 @@
+{
+  "appId": "com.regionmobile.launcher",
+  "appName": "Region Mobile",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
